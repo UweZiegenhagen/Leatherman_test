@@ -27,7 +27,9 @@ Stand: 01.11.2026 · Datenquelle: `Multitools.xlsx` · Eintraege: 39
 ### Nach Hersteller
 
 | Hersteller | Tools | Kaufpreis |
+
 | --- | ---: | ---: |
+
 | Leatherman | 39 | 1.001,00 € |
 
 
@@ -75,7 +77,6 @@ Stand: 01.11.2026 · Datenquelle: `Multitools.xlsx` · Eintraege: 39
 | [Leatherman - Wave](objekte/leatherman-wave-m035.md) | Leatherman | - | Sehr gut | - | 2 |
 | [Leatherman - Wave +](objekte/leatherman-wave-m033.md) | Leatherman | - | Sehr gut | - | 2 |
 | [Leatherman - Wingman](objekte/leatherman-wingman.md) | Leatherman | - | Neuwertig | - | 2 |
-
 
 
 ## Leatherman
