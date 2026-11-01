@@ -27,9 +27,7 @@ Stand: 01.11.2026 · Datenquelle: `Multitools.xlsx` · Eintraege: 39
 ### Nach Hersteller
 
 | Hersteller | Tools | Kaufpreis |
-
 | --- | ---: | ---: |
-
 | Leatherman | 39 | 1.001,00 € |
 
 
